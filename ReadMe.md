@@ -105,4 +105,4 @@ git push heroku master
 
 ## to more information
 
-1. To view projects that have added task & calendar management to this project https://github.com/ssooyeon/nodejs-react-mysql-sykang. Same as this project, only task & calendar management pages and features are added.
+1. To view projects that have added task & calendar management to this project *https://github.com/ssooyeon/nodejs-react-mysql-sykang*. Same as this project, only task & calendar management pages and features are added.
